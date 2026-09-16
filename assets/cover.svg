@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">JARVIS VPN — продуктовый и инженерный кейс</title>
+  <desc id="desc">Фирменная тёмно-синяя обложка с белым знаком JARVIS, голубыми орбитами и ключевыми показателями проекта.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071421"/>
+      <stop offset="0.52" stop-color="#102840"/>
+      <stop offset="1" stop-color="#0b1d30"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#5bbfff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#5bbfff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#43d6e9" stop-opacity="0.08"/>
+      <stop offset="0.55" stop-color="#5bbfff" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#70f0c6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#background)"/>
+  <circle cx="1260" cy="190" r="470" fill="url(#glow)"/>
+  <circle cx="1290" cy="180" r="290" fill="none" stroke="#5bbfff" stroke-opacity="0.14" stroke-width="2"/>
+  <circle cx="1290" cy="180" r="410" fill="none" stroke="#43d6e9" stroke-opacity="0.1" stroke-width="2"/>
+  <path d="M-120 690 C280 470 510 830 890 560 C1110 403 1240 295 1710 330" fill="none" stroke="url(#line)" stroke-width="3"/>
+  <path d="M360 980 C420 650 720 350 1060 300 C1280 268 1430 340 1710 180" fill="none" stroke="#5bbfff" stroke-opacity="0.13" stroke-width="2"/>
+  <circle cx="890" cy="560" r="11" fill="#5bbfff"/>
+  <circle cx="890" cy="560" r="35" fill="#5bbfff" opacity="0.18" filter="url(#soft-glow)"/>
+  <circle cx="1240" cy="295" r="8" fill="#70f0c6"/>
+  <circle cx="510" cy="690" r="7" fill="#43d6e9"/>
+
+  <g transform="translate(1060 85) scale(.38)" fill="#fff" opacity="0.98">
+    <path d="M141.25,258.52H17.68c-14.54,0-22.84,16.6-14.12,28.24l87.38,116.51c3.33,4.44,8.56,7.06,14.12,7.06h17.66c14.54,0,22.84-16.6,14.12-28.24l-53.48-71.31c-.88-1.17-.04-2.84,1.42-2.84h56.47c9.75,0,17.65-7.9,17.65-17.65v-14.13c0-9.75-7.9-17.65-17.65-17.65ZM921.45,276.17v14.13c0,9.75,7.9,17.65,17.65,17.65h56.12c1.46,0,2.29,1.67,1.42,2.84l-327.04,436.04c-.73.98-2.21.94-2.89-.08l-96.36-144.53c-.4-.6-.4-1.37,0-1.97l121.93-182.87c5.89-8.83,2.7-20.83-6.79-25.57l-87.05-43.52c-1.31-.65-1.31-2.52,0-3.17 48.86-24.44,102.74-37.16,157.38-37.16h20.9c9.75,0,17.65-7.9,17.65-17.65v-14.13c0-9.75-7.9-17.65-17.65-17.65h-32.57c-54.63,0-108.51,12.72-157.37,37.15l-45.98,22.99c-.5.25-1.09.25-1.59,0l-45.98-22.99c-48.86-24.43-102.74-37.15-157.37-37.15h-32.22c-9.75,0-17.65,7.9-17.65,17.65v14.13c0,9.75,7.9,17.65,17.65,17.65h20.98c54.35,0,107.95,12.65,156.56,36.96l.4.2c1.31.65,1.31,2.52,0,3.17l-87.06,43.52c-9.5,4.75-12.68,16.74-6.79,25.58l121.93,182.87c.4.6.4,1.37,0,1.97l-96.36,144.53c-.68,1.02-2.16,1.06-2.89.08l-151.77-202.35c-3.33-4.44-8.56-7.06-14.12-7.06h-17.66c-14.54,0-22.84,16.6-14.12,28.24l186.57,248.76c7.31,9.74,22.05,9.33,28.8-.8l110.42-165.62c.7-1.05,2.25-1.05,2.95,0l110.42,165.62c6.75,10.13,21.5,10.54,28.8.8l395.74-527.66c8.73-11.63.42-28.24-14.12-28.24h-123.22c-9.75,0-17.65,7.9-17.65,17.65ZM450.61,419.01l88.6-44.3c.5-.25,1.09-.25,1.59,0l88.6,44.3c.95.48,1.27,1.68.68,2.57l-88.6,132.9c-.7,1.05-2.25,1.05-2.95,0l-88.6-132.9c-.59-.89-.27-2.09.68-2.57Z"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="115" y="140" fill="#70f0c6" font-size="24" font-weight="700" letter-spacing="5">PRODUCT &amp; ENGINEERING CASE STUDY</text>
+    <text x="105" y="310" fill="#ffffff" font-size="116" font-weight="760" letter-spacing="-4">JARVIS VPN</text>
+    <text x="115" y="380" fill="#dcebff" font-size="34" font-weight="430">Коммерческий VPN-сервис с интерфейсом в Telegram</text>
+    <text x="115" y="445" fill="#9ec3dd" font-size="26">Продукт · автоматизация · API-интеграции · эксплуатация</text>
+
+    <g transform="translate(115 610)">
+      <rect width="280" height="96" rx="24" fill="#ffffff" fill-opacity="0.08" stroke="#5bbfff" stroke-opacity="0.28"/>
+      <text x="28" y="43" fill="#ffffff" font-size="31" font-weight="700">≈500</text>
+      <text x="28" y="74" fill="#b9d6ea" font-size="20">пользователей</text>
+    </g>
+    <g transform="translate(418 610)">
+      <rect width="360" height="96" rx="24" fill="#ffffff" fill-opacity="0.08" stroke="#70f0c6" stroke-opacity="0.28"/>
+      <text x="28" y="43" fill="#ffffff" font-size="31" font-weight="700">≈120</text>
+      <text x="28" y="74" fill="#b9d6ea" font-size="20">активных подписчиков</text>
+    </g>
+
+    <text x="115" y="820" fill="#6f9cb9" font-size="20" letter-spacing="2">PYTHON · TELEGRAM BOT API · POSTGRESQL · REST API · LINUX</text>
+  </g>
+</svg>
